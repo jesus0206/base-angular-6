@@ -13,7 +13,6 @@ import { AppComponent } from './app.component';
     AppRoutingModule
   ],
   providers: [
-    AppRoutingModule
   ],
   bootstrap: [AppComponent]
 })
